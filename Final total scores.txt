@@ -1,0 +1,6 @@
+Random Player earned 124
+T4T Player earned 113
+Optimistic T4T Player earned 115
+Pessimistic T4T Player earned 108
+Cooperative Player earned 114
+Defect Player earned 111

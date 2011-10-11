@@ -1,0 +1,15 @@
+Random Player,T4T Player,26,26
+Random Player,Optimistic T4T Player,27,22
+Random Player,Pessimistic T4T Player,21,21
+Random Player,Cooperative Player,41,21
+Random Player,Defect Player,9,19
+T4T Player,Optimistic T4T Player,30,25
+T4T Player,Pessimistic T4T Player,11,11
+T4T Player,Cooperative Player,35,30
+T4T Player,Defect Player,11,11
+Optimistic T4T Player,Pessimistic T4T Player,25,30
+Optimistic T4T Player,Cooperative Player,33,33
+Optimistic T4T Player,Defect Player,10,15
+Pessimistic T4T Player,Cooperative Player,35,30
+Pessimistic T4T Player,Defect Player,11,11
+Cooperative Player,Defect Player,0,55
